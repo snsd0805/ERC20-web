@@ -13,8 +13,8 @@ import { RouterLink, RouterView } from "vue-router";
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
               <ul class="navbar-nav ms-auto">
-                  <li class="nav-item mx-0 mx-lg-1"><router-link class="nav-link py-3 px-0 px-lg-3 rounded" to="/">Withdraw</router-link></li>
-                  <li class="nav-item mx-0 mx-lg-1"><router-link class="nav-link py-3 px-0 px-lg-3 rounded" to="/manage">Management</router-link></li>
+                  <!-- <li class="nav-item mx-0 mx-lg-1"><router-link class="nav-link py-3 px-0 px-lg-3 rounded" to="/">Withdraw</router-link></li> -->
+                  <!-- <li class="nav-item mx-0 mx-lg-1"><router-link class="nav-link py-3 px-0 px-lg-3 rounded" to="/manage">Management</router-link></li> -->
               </ul>
           </div>
       </div>
