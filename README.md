@@ -4,6 +4,8 @@ It's HW3 for 1112 NCNU CSIE "Principles and Practice of Blockchains"
 
 link to Metamask and manage your ERC-20 token on Sepolia Testnet.
 
+- Demo: https://snsd0805.com/ERC20
+
 ![](docs/Screenshot_20230508_220420.png)
 ![](docs/Screenshot_20230508_220621.png)
 
