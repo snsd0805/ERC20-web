@@ -8,11 +8,6 @@ const router = createRouter({
       path: '/',
       name: 'home',
       component: FaucetView
-    },
-    {
-      path: '/manage',
-      name: 'management',
-      component: ManageView
     }
   ]
 })
