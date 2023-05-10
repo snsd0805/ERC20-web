@@ -1,4 +1,4 @@
-# Faucet Webpage
+# ERC-20 Management Webpage
 
 It's HW3 for 1112 NCNU CSIE "Principles and Practice of Blockchains"
 
